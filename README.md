@@ -53,5 +53,3 @@ Built an interactive dashboard featuring:
 - Attrition rate by gender
 - Average salary comparison (stayed vs left)
 - Written business recommendations embedded directly in the dashboard
-
-## Repository Structure
