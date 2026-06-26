@@ -1,0 +1,22 @@
+# HR Attrition Analysis — Key Insights
+
+## Which Departments Have the Highest Attrition?
+Sales has the highest attrition rate at 20.6%, followed by HR at 19.1%, and R&D the lowest at 13.8%. So Sales is losing roughly 1 in 5 employees, while R&D is comparatively stable. Worth digging into what's different about how Sales operates — pressure, targets, or pay structure are all worth checking next.
+
+## Does Salary Affect Attrition?
+Yes, clearly. Employees who left earned an average of $4,787/month, compared to $6,833/month for those who stayed — a difference of about $2,000, or roughly 30% less. Salary is a strong factor here, though it's worth checking if this is a department thing (since Sales might just pay less on average) or applies across the board.
+
+## Experience vs Retention
+Employees who left had less experience overall — both at the company (5.1 years vs 7.4 years) and in total career experience (8.2 years vs 11.9 years). So it's not just "newer to this job," it's "newer to the workforce in general." This suggests attrition is concentrated in early-career employees, not specifically people who are new to the company but experienced elsewhere.
+
+## Why Do Employees Leave? (Satisfaction Factors)
+Every satisfaction metric is lower for employees who left:
+- Job Satisfaction: 2.47 vs 2.78 (stayed)
+- Work-Life Balance: 2.66 vs 2.78 (stayed)
+- Environment Satisfaction: 2.46 vs 2.77 (stayed)
+
+The gaps aren't huge in absolute terms, but they're consistent across all three — nobody factor stands out as the smoking gun, but the pattern suggests overall dissatisfaction (not one specific issue) is driving people out.
+
+---
+## The Story So Far
+Attrition is concentrated among early-career employees, especially in Sales, who are paid less and report lower satisfaction across the board. This points to a retention problem early in the employee lifecycle — not a single fixable issue, but a combination of pay, satisfaction, and likely onboarding/early support that compounds for newer, junior staff.
